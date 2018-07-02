@@ -1,0 +1,5 @@
+ignore
+apps/netcore-calc-backend/.vs/
+apps/netcore-calc-backend/bin/
+apps/netcore-calc-backend/obj/
+apps/netcore-calc-backend/netcore-calc-backend.csproj.user
